@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/scipy/scipy.org",
+  "@type": "gh:Repository",
+  "gh:name": "scipy.org",
+  "gh:owner": "scipy",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/scipy/scipy.org/commit/2f177bcdb7b5c9b163aa4951db52b0512baeed8f",
+      "git:hexsha": "2f177bcdb7b5c9b163aa4951db52b0512baeed8f",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
