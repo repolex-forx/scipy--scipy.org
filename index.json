@@ -1,0 +1,11 @@
+{
+  "org": "scipy",
+  "repo": "scipy.org",
+  "versions": [
+    {
+      "commit": "2f177bcdb7b5c9b163aa4951db52b0512baeed8f",
+      "tag": "",
+      "parsed_at": "2026-11-06T16:01:26.820031+00:00"
+    }
+  ]
+}
